@@ -9,7 +9,7 @@ class Program
 
         // EXCEEDING REQUIREMENTS:
         // - Save/Load system
-        // - Bonus scoring
+        // - Scoring bonus
         // - Checklist tracking
     }
 }
